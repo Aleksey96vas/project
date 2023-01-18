@@ -1,0 +1,23 @@
+// This is reset file
+@import "reset.scss";
+
+// This is fonts from out
+@import "fonts.scss";
+
+
+
+
+
+.wrapper{
+    min-height: 100;
+    overflow: hidden;
+    font-family: 'Montserrat';
+    .h1{
+        color: gray;
+    }
+}
+._conteiner{
+    max-width: 0, auto;
+}
+
+
